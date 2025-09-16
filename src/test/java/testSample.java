@@ -1,7 +1,7 @@
 import java.io.IOException;
 import java.util.ArrayList;
 
-@Test
+
 public class testSample {
 
 	public static void main(String[] args) throws IOException {
